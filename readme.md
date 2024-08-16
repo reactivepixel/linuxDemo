@@ -32,3 +32,7 @@ git push origin master
 ```
 git checkout -b <name>
 ```
+
+```
+git merge <name>
+```
