@@ -28,3 +28,7 @@ git remote add <name> <url>
 ```
 git push origin master
 ```
+
+```
+git checkout -b <name>
+```
